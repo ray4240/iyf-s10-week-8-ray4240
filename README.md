@@ -1,5 +1,5 @@
 # iyf-s10-week-8-ray4240
-**Week:** 8 — React Fundamentals  ## Author - David kithi Khamis  - **GitHub:** [davidhamisi306@gmail.com](https://github.com/ray4240) - 19/03/2026  ##React Fundamentals ##Technologies Used - HTML5 - CSS3 - JavaScript - (# I learnt more of java and how functions works  #
+**Week:** 8 — React Fundamentals  ## Author - David kithi Khamis  - **GitHub:** [davidhamisi306@gmail.com](https://github.com/ray4240) - 21/03/2026  ##React Fundamentals ##Technologies Used - HTML5 - CSS3 - JavaScript - (# I learnt more of java and how functions works  #
 
 ## What's Covered
 
